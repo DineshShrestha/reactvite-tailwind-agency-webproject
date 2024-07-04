@@ -40,7 +40,7 @@ const About= ()=> {
                             </div>
                         </div>
                         <div className='flex items-center gap-8'>
-                            <img src="/src/assets/events.svg" alt="" />
+                            <img src="/src/assets/event.svg" alt="" />
                             <div>
                                 <h4 className="text-2xl text-neutralDGrey font-semibold">2,245,364</h4>
                                 <p>Event Bookings</p>

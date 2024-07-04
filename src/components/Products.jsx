@@ -10,7 +10,7 @@ const Products=()=> {
                     <img src={about} alt="" className='w-96 h-96 max-w-xl rounded-lg shadow-xl p-2'/>
                 </div>
                 <div className="md:w-3/5 mx-auto">
-                    <h2 className='text-4xl text-neutralDGrey font-semibod mb-4 md:w-4/5'>How to design like we do</h2>
+                    <h2 className='text-4xl text-neutralDGrey font-semibold mb-4 md:w-4/5'>How to design like we do</h2>
                     <p className="md-3/4 text-sm text-neutralGrey mb-8">
                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis hic neque architecto amet, 
                        voluptates laboriosam voluptate perferendis, 
