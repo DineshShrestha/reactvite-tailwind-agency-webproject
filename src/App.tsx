@@ -6,6 +6,7 @@ import About from './components/About'
 import Products from './components/Products'
 import Blog from './components/Blog'
 import NewsLetter from './components/NewsLetter'
+import MyFooter from './components/MyFooter'
 import './App.css'
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
       <Products/>
       <Blog/>
       <NewsLetter/>
+      <MyFooter/>
     </>
   )
 }

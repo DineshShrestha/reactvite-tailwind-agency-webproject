@@ -7,7 +7,7 @@ const Blog= ()=> {
         {id: 3, title: "Revamning the Membership Model with Triatholn Australia", image:"/src/assets/blog3.jpg" },
     ]
   return (
-    <div className='px-4 lg:px-14 max-w-screen-2xl mx-auto my-12'>
+    <div className='px-4 lg:px-14 max-w-screen-2xl mx-auto my-12' id='faq'>
         <div className='text-center md:w-1/2 mx-auto'>
         <h2 className='text-4xl text-neutralDGrey font-semibold mb-4'>Caring is the new marketing</h2>
                     <p className="md:w-3/4 text-sm text-neutralGrey mb-8 mx-auto">

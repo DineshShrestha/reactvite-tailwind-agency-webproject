@@ -42,7 +42,7 @@ const  Navbar=()=> {
             <div className='flex justify-between items-center text-base gap-8'>
                 <a href=""className='text-2xl font-semibold flex items-center space-x-3' ><img src={logo} alt="" className='w-10 inline-block items-center' /><span className='text-[#263238'>NEXCENT</span></a>
                 {/*nav items for large devices*/}
-                <ul className='md:flex space-x-12 hidden'>
+                <ul className='md:flex space-x-12 hidden cursor-pointer'>
                     {
                         navItems.map(({link, path})=> <Link  to={path} spy={true} smooth={true} offset={-100} key={path} 
                         className='block text-base text-gray900 hover:text-brandPrimary first:font-medium'

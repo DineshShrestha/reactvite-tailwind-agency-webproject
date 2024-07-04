@@ -4,7 +4,7 @@ const Products=()=> {
   return (
     <div>
         {/*about text */}
-        <div className='px-4 lg:px-14px max-w-screen-2xl mx-auto my-8'>
+        <div className='px-4 lg:px-14px max-w-screen-2xl mx-auto my-8' id='product'>
             <div className='md:w-11/12 mx-auto flex flex-col md:flex-row justify-between items-center gap-8'>
                 <div>
                     <img src={about} alt="" className='w-96 h-96 max-w-xl rounded-lg shadow-xl p-2'/>
@@ -23,7 +23,7 @@ const Products=()=> {
 
         </div>
          {/*compnay stats */}
-         <div className='px-4 lg:px-14 max-w-screen-2xl mx-auto bg-neutralSilver py-16'>
+         <div className='px-4 lg:px-14 max-w-screen-2xl mx-auto bg-neutralSilver py-16' id='testimonial'>
             <div className='flex flex-col md:flex-row justify-between items-center gap-8'>
                 <div className='wd:w-1/3 p-5 mt-10'>
                 <img src="/src/assets/tesla.jpg" alt="" className='md:w-2/3 mx-auto rounded-tl-3xl rounded-3xl mx-auto' />       
