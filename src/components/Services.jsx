@@ -18,14 +18,14 @@ const Services = ()=>{
             <h2 className="text-4xl text-neutralDGrey font-semibold mb-2">Our Clients</h2>
             <p className="text-neutralDGrey">We have been working with some Fortunate 500+ clients</p>
             {/*Company logos*/}
-            <div className='my-12 flex flex-wrap justify-between items-center gap-8 '>
-                <img src="/src/assets/company1.jpg" alt="" height="20" width="20"/>
-                <img src="/src/assets/company2.jpg" alt="" height="20" width="20"/>
-                <img src="/src/assets/company3.jpg" alt="" height="20" width="20"/>
-                <img src="/src/assets/company4.jpg" alt="" height="20" width="20"/>
-                <img src="/src/assets/company5.jpg" alt="" height="20" width="20"/>
-                <img src="/src/assets/company6.jpg" alt="" height="20" width="20"/>
-                <img src="/src/assets/company7.jpg" alt="" height="20" width="20"/>
+            <div className='my-12 flex flex-wrap justify-between items-center gap-8 p-4'>
+                <img src="/src/assets/company1.jpg" alt="" className='h-20 w-20' />
+                <img src="/src/assets/company2.jpg" alt="" className='h-20 w-20'/>
+                <img src="/src/assets/company3.jpg" alt="" className='h-20 w-20'/>
+                <img src="/src/assets/company4.jpg" alt="" className='h-20 w-20'/>
+                <img src="/src/assets/company5.jpg" alt="" className='h-20 w-20'/>
+                <img src="/src/assets/company6.jpg" alt="" className='h-20 w-20'/>
+                <img src="/src/assets/company7.jpg" alt="" className='h-20 w-20'/>
             </div>
 
             {/*Services card */}
