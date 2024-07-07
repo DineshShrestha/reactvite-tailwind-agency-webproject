@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from 'react'
+import {useEffect, useState} from 'react'
 import logo from '../assets/logo/logo.jpg'
 import { Link } from 'react-scroll';
 
