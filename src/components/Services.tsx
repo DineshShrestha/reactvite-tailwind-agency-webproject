@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Services = ()=>{
     const services = [
         {id:1, title: "Membership Organisations", description: "Our membership management software provides full automation of membership renewals and payments",

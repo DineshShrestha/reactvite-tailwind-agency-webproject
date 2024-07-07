@@ -1,4 +1,3 @@
-import React from 'react'
 import about from "../assets/about1.jpg"
 const About= ()=> {
   return (

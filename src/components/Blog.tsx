@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Blog= ()=> {
     const blogs= [
         {id: 1, title: "Creating Streamlined Safeguarding Process with OneRen", image:"/src/assets/blog1.jpg" },

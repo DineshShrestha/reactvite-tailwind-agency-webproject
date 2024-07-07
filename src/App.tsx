@@ -1,16 +1,14 @@
-import { useState } from 'react'
-import Navbar from './components/Navbar'
-import Home from './components/Home'
-import Services from './components/Services'
-import About from './components/About'
-import Products from './components/Products'
-import Blog from './components/Blog'
-import NewsLetter from './components/NewsLetter'
-import MyFooter from './components/MyFooter'
+import Navbar from './components/Navbar.tsx'
+import Home from './components/Home.tsx'
+import Services from './components/Services.tsx'
+import About from './components/About.tsx'
+import Products from './components/Products.tsx'
+import Blog from './components/Blog.tsx'
+import NewsLetter from './components/NewsLetter.tsx'
+import MyFooter from './components/MyFooter.tsx'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
