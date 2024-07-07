@@ -9,8 +9,8 @@ const Blog= ()=> {
         <div className='text-center md:w-1/2 mx-auto'>
         <h2 className='text-4xl text-neutralDGrey font-semibold mb-4'>Caring is the new marketing</h2>
                     <p className="md:w-3/4 text-sm text-neutralGrey mb-8 mx-auto">
-                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, soluta alias omnis unde praesentium voluptas 
-                       maxime repellat totam molestias est deserunt nulla perferendis impedit dolorum. Est voluptatum perspiciatis sit vero!
+                    we understand the importance of compassionate, personalized care. Whether it's for an elderly family member, someone recovering from surgery, 
+                    or a loved one with special needs, our team of dedicated caregivers is here to provide the support and assistance they need.
                     </p>
         </div>
         {/*all blogs */}

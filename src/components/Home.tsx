@@ -1,5 +1,7 @@
 import { Carousel } from 'flowbite-react'
-import banner from "../assets/banner.jpg"
+import carousel1 from "../assets/carousel1.jpg"
+import carousel from "../assets/carousel.jpg"
+import carousel2 from "../assets/carousel2.jpg"
 const Home = ()=> {
   return (
     <div className='bg-neutralSilver' id='home'>
@@ -7,7 +9,7 @@ const Home = ()=> {
         <Carousel  className='w-full mx-auto'>
         <div className="my-28 mx:my-8 py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12">
           <div className='w-1/2 p-0 m-0 left-0'>
-            <img src={banner} alt="" />
+            <img src={carousel1} alt="" />
           </div>
           {/*Hero text*/}
           <div className="md:w-1/2">
@@ -18,7 +20,7 @@ const Home = ()=> {
         </div>
         <div className="my-28 mx:my-8 py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12">
           <div className='w-1/2 p-0 m-0 left-0'>
-            <img src={banner} alt="" />
+            <img src={carousel} alt="" />
           </div>
           {/*Hero text*/}
           <div className="md:w-1/2">
@@ -29,7 +31,7 @@ const Home = ()=> {
         </div>
         <div className="my-28 mx:my-8 py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12">
           <div className='w-1/2 p-0 m-0 left-0'>
-            <img src={banner} alt="" />
+            <img src={carousel2} alt="" />
           </div>
           {/*Hero text*/}
           <div className="md:w-1/2">

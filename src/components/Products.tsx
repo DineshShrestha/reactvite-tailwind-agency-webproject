@@ -12,10 +12,8 @@ const Products=()=> {
                 <div className="md:w-3/5 mx-auto">
                     <h2 className='text-4xl text-neutralDGrey font-semibold mb-4 md:w-4/5'>How to design like we do</h2>
                     <p className="md-3/4 text-sm text-neutralGrey mb-8">
-                       Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis hic neque architecto amet, 
-                       voluptates laboriosam voluptate perferendis, 
-                       inventore reiciendis reprehenderit necessitatibus? Perspiciatis incidunt sit voluptatem itaque tenetur est quo accusantium!
-                    </p>
+                    we believe in empowering seniors to live independently while providing their families with the peace of mind they deserve. The
+                    Home Monitoring System is designed to keep your loved ones safe and connected, ensuring their well-being at all times.</p>
                     <button className='btn-primary'>Learn More</button>
                 </div>
 
@@ -31,9 +29,8 @@ const Products=()=> {
                 <div className="md:w-2/3 mx-auto">
                     <div>
                         <p className='md:w:4/5 text-sm text-neutralGrey mb-8 leading-7'>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi porro rerum doloremque? 
-                            Porro quam nobis non voluptatem quia. Sunt exercitationem, veniam architecto doloremque 
-                            debitis magnam earum fugit sit facilis alias!
+                        An advanced solution designed to ensure the safety, health, and independence of seniors living at home. With cutting-edge technology and 
+                        user-friendly features, it provides peace of mind for families while supporting the well-being of their loved ones.
                         </p>
                         <h5 className="text-brandPrimary text-xl font-semibold mb-2">Tim Smith</h5>
                         <p className='text-base text-neutralGrey mb-8'>British Dragon Boat Racing Association</p>
