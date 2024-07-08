@@ -1,4 +1,3 @@
-import React from 'react'
 import about from "../assets/mobilelogin.jpg"
 const Products=()=> {
   return (

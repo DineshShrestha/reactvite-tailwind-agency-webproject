@@ -1,4 +1,3 @@
-import React from 'react'
 import { Footer } from "flowbite-react";
 import logo from '../assets/logo/logo.jpg'
 import { BsDribbble, BsFacebook, BsGithub, BsInstagram, BsTwitter } from "react-icons/bs";
